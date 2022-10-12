@@ -28,4 +28,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Before joining University of Washington, I was working as a Senior Research Engineer at Mahindra Research Valley, India, where I was a part of the Powertrain Development Team and helped to develop and calibrating controls for Internal Combustion Engines for SUVs.
 
-My research focuses on fusing the thermal and visual images together to get a richer and meaningful image to be used in several applications, such as Search and Rescue missions and Autonomous Driving Systems, where the environmental conditions may limit the functioning of the stand-alone camera.
+My research focuses on fusing the thermal and visual images together to get a richer and more meaningful image to be used in several applications, such as Search and Rescue missions and Autonomous Driving Systems, where the environmental conditions may limit the functioning of the stand-alone camera.
