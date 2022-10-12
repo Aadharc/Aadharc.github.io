@@ -26,6 +26,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Before joining University of Washington, I was working as a Senior Research Engineer at Mahindra Research Valley, India, where I was a part of the Powertrain Development Team and helped to develop and calibrating controls for Internal Combustion Engines for SUVs.
+Before joining University of Washington, I was working as a Senior Research Engineer at Mahindra Research Valley, India, where I was a part of the Powertrain Development Team and helped to develop and calibrate controls for Internal Combustion Engines for SUVs.
 
 My research focuses on fusing the thermal and visual images together to get a richer and more meaningful image to be used in several applications, such as Search and Rescue missions and Autonomous Driving Systems, where the environmental conditions may limit the functioning of the stand-alone camera.
