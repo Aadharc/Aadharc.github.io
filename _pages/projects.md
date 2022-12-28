@@ -5,7 +5,7 @@ permalink: /projects/
 description: Academic Projects.
 nav: true
 nav_order: 2
-display_categories: [Academic]
+display_categories: [Thesis, Academic]
 horizontal: false
 ---
 
