@@ -7,28 +7,7 @@ importance: 1
 category: Thesis
 ---
 
-Autonomous systems rely on various sensors, such
-as visual cameras (including stereo pairs), thermal
-cameras, Radio Detection and Ranging (RADAR) and
-Light Detection and Ranging (LiDAR), to understand
-and navigate their surroundings, make decisions, and
-complete desired tasks. However, each of these these
-sensor modalities have limitations which, if not compensated
-for, can negatively impact the performance
-of autonomous systems. Combining multiple
-types of sensors together allows autonomous systems
-to experience the benefits of sensors collectively
-while offsetting their individual weaknesses. This is
-called sensor fusion, which is, fusing the complementary
-data from different sensors to generate richer
-and more meaningful data. One such task is image
-fusion, where images from different cameras are fused
-together and can be used in practical applications such
-as autonomous driving and video surveillance (e.g.
-Wilderness Search and Rescue). The present project
-focuses on image fusion using thermal and visual
-cameras in particular.
-
+The main challenge of a Wilderness Search and Rescue (WiSAR) mission is to cover a large area within a reasonable and short amount of time effectively. The recent development in the area of sensor-equipped Unmanned Aerial Vehicles (UAV) and object detection algorithms have pushed the idea of using UAVs equipped with appropriate sensors for the surveillance of the area and finding humans in an efficient and time-saving way. The present work discusses a novel deep learning approach using Generative Adversarial Network (GAN) with two Discriminators and a Masked-Feature Extractor, to fuse the images (inputs) obtained from the Visual and the Thermal cameras to address the diverse terrain and weather conditions which can be experienced during the search and rescue operation. The proposed solution utilizes a GAN network based on Pix2Pix but with two discriminators as opposed to one. The results obtained further motivate the idea of developing an end-to-end pipeline for human detection in a wilderness environment using both, visual and thermal images as inputs.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="text-align:center">
