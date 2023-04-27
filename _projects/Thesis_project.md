@@ -62,7 +62,7 @@ Both images shown above, though taken at the same exact moment, are different in
     </div>
 </div>
 <div class="caption">
-    Fig 4: The results after training the network on a diversed dataset. The images on the far right are generated/fused images of the respective thermal image (left) and visual image (right). 
+    Fig 3: The results after training the network on a diversed dataset. The images on the far right are generated/fused images of the respective thermal image (left) and visual image (right). 
 </div>
 
 
