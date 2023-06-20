@@ -3,7 +3,7 @@ layout: page
 title: ASL Detection and Letter Prediction
 description: <a href="https://sites.google.com/view/asldetection/home">ASL Detection and Letter Prediction</a>
 img: assets/img/ASL.jpg
-importance: 1
+importance: 2
 category: Academic
 ---
 
