@@ -2,7 +2,7 @@
 layout: page
 title: Q-Learning 
 description: 
-img: assets/img/video_12000_IL.gif
+img: assets/img/Video_12000_IL.gif
 importance: 1
 category: Academic
 ---
