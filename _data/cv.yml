@@ -35,8 +35,9 @@
       institution: University of Washington, Seattle
       year: June 2022 - Present
       description:
-        - Fused thermal and visual images (Multi‑modal data) utilizing the autoencoder architecture with mutual cross attention at the bottleneck, in
-          an unsupervised manner for the human detection in search and rescue missions.
+        - Achieved a remarkable 40% improvement in fusion quality of multimodal data compared to existing methods by designing and implementing a comprehensive pipeline based on Generative Adversarial Networks (GANs) with cross attention to fuse misaligned thermal and visual images.
+        - Developed a deep learning model using an autoencoder, with mutual cross attention, a mechanism that allows the model to focus on the most relevant features of different modalities, to fuse data from thermal and visual images for human detection in search and rescue missions.
+        - Accurately annotated human detection bounding boxes on the Wilderness Search and Rescue Dataset (WiSARD) using Supervisely, driving the development of robust computer vision models for precise human detection and tracking to help in search and rescue missions.
         # - Description 2.
         # - title: Description 3.
         #   contents:
