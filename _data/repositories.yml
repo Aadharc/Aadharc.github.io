@@ -2,6 +2,7 @@ github_users:
   - Aadharc
 
 github_repos:
+  - Aadharc/Visual_Thermal_Image_Fusion
   - Aadharc/End_term_CV
   - Aadharc/GAN
   - Aadharc/DeepHomography_thermal
