@@ -6,11 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Aadhar
 middle_name: Chauhan
 last_name: आधार चौहान
-email: aadharchhn@gmail.edu
+email: aadharchhn@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+
+
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 
