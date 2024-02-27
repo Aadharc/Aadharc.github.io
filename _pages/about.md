@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'></a>aadharc[at]uw[dot]edu
+subtitle: <a href='#'></a>aadharchhn[at]gmail[dot]com
 
 profile:
   align: right
