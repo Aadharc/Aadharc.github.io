@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Research Assistant @ CTRL</p>
+    <p>Research Assistant @ Motion Planning Lab</p>
     <p></p>
     <p></p>
 
